@@ -1,0 +1,10 @@
+singularityclasses/ClientTranslator.java
+ singularityclasses.ClientTranslator
+singularityclasses/Translator.java
+ singularityclasses.Translator
+singularityclasses/Util.java
+ singularityclasses.Util
+singularityclasses/Scanner.java
+ singularityclasses.Scanner
+singularityclasses/App.java
+ singularityclasses.App
